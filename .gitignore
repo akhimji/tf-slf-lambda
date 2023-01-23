@@ -44,3 +44,5 @@ aws/multi-tenant/temp
 old/*
 aws-demo-env/*
 other-non-commit/*
+app/func.py
+terraform/lambda_function.zip
